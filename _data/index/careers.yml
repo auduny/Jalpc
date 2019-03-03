@@ -1,29 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Schibsted Media
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Running all schibsted news sites in Norway
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Jan 2008
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Head of Operations Pubishing
     i18n: company_a_job
   icon: fa-plus-square
 
+
 - name:
-    detail: Company B
+    detail: Verdens Gang (VG)
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Head of Operation
     i18n: company_b_desc
   date:
     detail: Jun. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Head of Operations
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Redpill Linpro
+    i18n: company_b
+  desc:
+    detail: Running 23 large sites in fluppa
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2015
+    i18n: company_b_date
+  job:
+    detail: Head of Hosted Operations
     i18n: company_b_job
   icon: fa-plus-square
